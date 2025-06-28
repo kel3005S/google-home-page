@@ -1,2 +1,2 @@
-# pagina-google
-a pagina do google mas sem a logica de pesquisa e dos botões (por enquanto)
+# Google home page
+The Google home page without the JS logic
